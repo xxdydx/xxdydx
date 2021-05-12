@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arul00
+- 👋 Hi, I’m @xxdydx
 - 👀 I’m interested in sleeping, eating and computers.
 - 📫 You can reach me at my email, ```official(at)arul(dot)me```
 <!---
