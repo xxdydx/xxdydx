@@ -6,7 +6,7 @@
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=xxdydx&left_color=green&right_color=red)
 
 <!---
 arul00/arul00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
